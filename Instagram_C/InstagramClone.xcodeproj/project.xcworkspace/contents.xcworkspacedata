@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../InstagramClone/Oleo_Script"
+      name = "Oleo_Script">
+      <FileRef
+         location = "group:OleoScript-Bold.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:OleoScript-Regular.ttf">
+      </FileRef>
+      <FileRef
+         location = "group:OFL.txt">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
